@@ -1,4 +1,4 @@
-# Expenses-manage-App
+# Expenses-management-Application
 
 A new project aimed at managing expenses efficiently.
 
